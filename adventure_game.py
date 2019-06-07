@@ -1,5 +1,3 @@
-# next run pycodestyle
-
 import time
 import random
 
